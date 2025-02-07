@@ -1,0 +1,77 @@
+[
+  {
+    "ID": "123456",
+    "Equipamento": "SWITCH",
+    "Descrição": "CISCO MERAKI",
+    "Serie": "MS125-24P-HW",
+    "NFTelmex": "34512",
+    "OS": "1-1657204001",
+    "Reserva": "4175310",
+    "Cliente": "ELETROLUX DO BRASIL SA",
+    "Projeto": "ELECTROLUX",
+    "UF": "SC",
+    "Cidade": "PORTO BELO",
+    "NFCliente": "1527",
+    "ValorUnitário": "R$ 14.152,98",
+    "ValorTotal": "R$ 28.305,97",
+    "Quantidade": "2",
+    "DataEntrada": "1/2/2024"
+  },
+
+  {
+    "ID": "1234567",
+    "Equipamento": "SWITCH 2",
+    "Descrição": "CISCO MERAKI",
+    "Serie": "MS125-24P-HW",
+    "NFTelmex": "34512",
+    "OS": "1-1657204001",
+    "Reserva": "4175310",
+    "Cliente": "ELETROLUX DO BRASIL SA",
+    "Projeto": "ELECTROLUX",
+    "UF": "SC",
+    "Cidade": "PORTO BELO",
+    "NFCliente": "1527",
+    "ValorUnitário": "R$ 14.152,98",
+    "ValorTotal": "R$ 28.305,97",
+    "Quantidade": "2",
+    "DataEntrada": "1/2/2024"
+  },
+
+  {
+    "ID": "1234568",
+    "Equipamento": "SWITCH 3",
+    "Descrição": "CISCO MERAKI",
+    "Serie": "MS125-24P-HW",
+    "NFTelmex": "34512",
+    "OS": "1-1657204001",
+    "Reserva": "4175310",
+    "Cliente": "ELETROLUX DO BRASIL SA",
+    "Projeto": "ELECTROLUX",
+    "UF": "SC",
+    "Cidade": "PORTO BELO",
+    "NFCliente": "1527",
+    "ValorUnitário": "R$ 14.152,98",
+    "ValorTotal": "R$ 28.305,97",
+    "Quantidade": "2",
+    "DataEntrada": "1/2/2024"
+  },
+
+  {
+    "ID": "1234569",
+    "Equipamento": "SWITCH 4",
+    "Descrição": "CISCO MERAKI",
+    "Serie": "MS125-24P-HW",
+    "NFTelmex": "34512",
+    "OS": "1-1657204001",
+    "Reserva": "4175310",
+    "Cliente": "ELETROLUX DO BRASIL SA",
+    "Projeto": "ELECTROLUX",
+    "UF": "SC",
+    "Cidade": "PORTO BELO",
+    "NFCliente": "1527",
+    "ValorUnitário": "R$ 14.152,98",
+    "ValorTotal": "R$ 28.305,97",
+    "Quantidade": "2",
+    "DataEntrada": "1/2/2024"
+  }
+]
