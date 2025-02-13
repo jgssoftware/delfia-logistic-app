@@ -7,7 +7,7 @@ import { ScrollView, View } from "react-native";
 import { useGlobalSearchParams } from "expo-router";
 import tailwind from "twrnc";
 import { Skeleton } from "moti/skeleton";
-import { responseAll } from "./services/services";
+import responseAll from "@/services/services";
 
 const Information = () => {
   const [services, setServices] = useState<Services[]>([]);
