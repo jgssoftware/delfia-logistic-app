@@ -19,7 +19,7 @@ export default function HomeScreen() {
 
       setTimeout(() => {
         setIsloading(false);
-        router.push({ pathname: "/result", params: { id: data } });
+        router.push({ pathname: "/information", params: { id: data } });
       }, 3000);
     }
   };
